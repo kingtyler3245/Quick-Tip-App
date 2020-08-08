@@ -1,2 +1,2 @@
 # Quick-Tip-App
-It calculates the amount of tip to be shared among purchasers on a bill based on a set percentage.
+It calculates the amount of tip on a bill to be shared among purchaser(s) based on a set percentage.
